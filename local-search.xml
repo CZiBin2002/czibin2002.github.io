@@ -4,16 +4,45 @@
   
   
   <entry>
-    <title>第一个多线程工程</title>
-    <link href="/2025/12/21/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Efreertos%E7%9A%84cmsis%E5%B7%A5%E7%A8%8B/"/>
-    <url>/2025/12/21/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Efreertos%E7%9A%84cmsis%E5%B7%A5%E7%A8%8B/</url>
+    <title>第一个CMSIS_OS教程</title>
+    <link href="/2025/12/22/%E7%AC%AC%E4%B8%80%E4%B8%AACMSIS-OS%E6%95%99%E7%A8%8B/"/>
+    <url>/2025/12/22/%E7%AC%AC%E4%B8%80%E4%B8%AACMSIS-OS%E6%95%99%E7%A8%8B/</url>
     
-    <content type="html"><![CDATA[<h2 id="第一个多线程工程"><a href="#第一个多线程工程" class="headerlink" title="第一个多线程工程"></a>第一个多线程工程</h2>]]></content>
+    <content type="html"><![CDATA[<h1 id="第一个CMSIS-OS教程"><a href="#第一个CMSIS-OS教程" class="headerlink" title="第一个CMSIS_OS教程"></a>第一个CMSIS_OS教程</h1>]]></content>
     
     
     <categories>
       
-      <category>CMSIS_OS基础</category>
+      <category>cmsis_os使用</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+      <tag>stm32</tag>
+      
+      <tag>cmsis_os</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>第一个freertos工程</title>
+    <link href="/2025/12/21/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Efreertos%E7%9A%84cmsis%E5%B7%A5%E7%A8%8B/"/>
+    <url>/2025/12/21/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8Efreertos%E7%9A%84cmsis%E5%B7%A5%E7%A8%8B/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一个freertos工程"><a href="#第一个freertos工程" class="headerlink" title="第一个freertos工程"></a>第一个freertos工程</h1><h2 id="一、单片机设计模式"><a href="#一、单片机设计模式" class="headerlink" title="一、单片机设计模式"></a>一、单片机设计模式</h2><h2 id="二、实验原理图"><a href="#二、实验原理图" class="headerlink" title="二、实验原理图"></a>二、实验原理图</h2><h2 id="三、STM32CUBEMX配置"><a href="#三、STM32CUBEMX配置" class="headerlink" title="三、STM32CUBEMX配置"></a>三、STM32CUBEMX配置</h2><h2 id="四、第一个多线程任务"><a href="#四、第一个多线程任务" class="headerlink" title="四、第一个多线程任务"></a>四、第一个多线程任务</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>freertos基础</category>
       
     </categories>
     
